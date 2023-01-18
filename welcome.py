@@ -1,0 +1,1 @@
+print('Seja bem vindo ao meu primeiro arquivo importado para o git.')
